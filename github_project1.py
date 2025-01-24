@@ -48,13 +48,5 @@ for i in range (4):
                     print("you have entered the too many incorrect attempts for the code Goodbye")
             elif verify2== verify_code:
                 print("congrats you successfully signed in TSHEPO MANAKA great code you just did ;) \n")
-                game=input("which game would you like to buy \n 1) god of war R500 \n 2) uncharted 2 R300 \n 3) gta V R700 \n")
-                if game=="1":
-                    balance-=500
-                    print('thank you for your purchase here is your new balance',balance)
-                elif game=="2":
-                    balance-=300
-                
-
-
+             
         break
